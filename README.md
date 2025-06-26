@@ -1,4 +1,4 @@
-<h3 align="left"># 👋 Hey there! I'm Hassan<br><br>```js<br><br>// Sometimes the best engineers aren't born in CS labs... they're grown in biology labs.<br>const passion = "software engineering";<br>let journey = "from biology to full-stack magic 🌱➡️💻";</h3>
+<h3 align="left">👋 Hey there! I'm Hassan<br><br><br><br>// Sometimes the best engineers aren't born in CS labs... they're grown in biology labs.<br><br><br>const passion = "software engineering";<br>let journey = "from biology to full-stack magic 🌱➡️💻";</h3>
 
  
 
